@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/GitHub-ICI-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
     </a>
     <a href="https://icimaruu.github.io">
-      <img src="https://img.shields.io/badge/Portfolio-ICI.github.io-14b8a6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio badge" />
+      <img src="https://img.shields.io/badge/Portfolio-icimaruu.github.io-14b8a6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio badge" />
     </a>
   </p>
 
@@ -43,8 +43,8 @@ CLI Tools           Designing simple utilities for automation and productivity
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ICI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="ICI GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICI&layout=compact&theme=tokyonight&hide_border=true" alt="ICI top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=icimaruu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="ICI GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icimaruu&layout=compact&theme=tokyonight&hide_border=true" alt="ICI top languages" />
 
 </div>
 
