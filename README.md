@@ -15,7 +15,7 @@
 
 ## Hi, I'm ICI
 
-Undergraduate Software Engineering student at Telkom University with a strong interest in building practical, secure, and useful software. I enjoy working across  web development, mobile development, ui/ux, cybersecurity, and CLI tooling.
+Undergraduate Software Engineering student at Telkom University with a strong interest in building practical, secure, and useful software. I enjoy working across  web development, mobile development, ui/ux, and cybersecurity.
 
 I like turning ideas into tools that are clean, direct, and easy to use. My repositories are where I explore software engineering, offensive security concepts, automation, and developer-focused utilities.
 
@@ -26,7 +26,6 @@ Web Development     Building modern, responsive, and maintainable web apps
 Mobile Development  Creating mobile experiences with practical user flows
 UI/UX Designer      Designing simple and futuristic UI for web or mobapp
 Cybersecurity       Learning offensive security, tooling, and secure systems
-CLI Tools           Designing simple utilities for automation and productivity
 ```
 
 ## Tech Direction
@@ -37,7 +36,6 @@ CLI Tools           Designing simple utilities for automation and productivity
   <img src="https://img.shields.io/badge/Mobdev-14b8a6?style=for-the-badge&logo=android&logoColor=white" alt="Mobdev" />
   <img src="https://img.shields.io/badge/figma-0f172a?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
   <img src="https://img.shields.io/badge/Cybersec-0f172a?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersec" />
-  <img src="https://img.shields.io/badge/CLI_Tools-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="CLI Tools" />
 
 </div>
 
