@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:14b8a6&text=ICI&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Webdev%20%7C%20Mobdev%20%7C%20Cybersec&descAlignY=60&descSize=16" alt="ICI profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:14b8a6&text=icimaruu&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Webdev%20%7C%20Mobdev%20%7C%20Cybersec&descAlignY=60&descSize=16" alt="ICI profile banner" />
 
   <p>
     <a href="https://github.com/icimaruu">
-      <img src="https://img.shields.io/badge/GitHub-ICI-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+      <img src="https://img.shields.io/badge/GitHub-icimaruu-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
     </a>
     <a href="https://icimaruu.github.io">
       <img src="https://img.shields.io/badge/Portfolio-icimaruu.github.io-14b8a6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio badge" />
